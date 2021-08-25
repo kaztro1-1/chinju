@@ -2,9 +2,9 @@
 Created by adhildev
 
 <div align="center">
-  <img border-radius: 15px src="https://avatars.githubusercontent.com/Nikhil-Jr" width="200" height="200"/>
+  <img border-radius: 15px src="https://avatars.githubusercontent.com/adhildev" width="200" height="200"/>
   <p align="center">
-<a href="#"><img title="chinju mwol" src="https://img.shields.io/badge/chinjumwol -green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="chinju mwol" src=" https://i.ibb.co/NVccqkH/images.jpg-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
 <a href="https://github.com/adhildev"><img title="Author" src="https://img.shields.io/badge/Author-adhildev-uv/chinju?color=red&style=for-the-badge&logo=whatsapp"></a>
